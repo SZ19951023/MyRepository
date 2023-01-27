@@ -1,2 +1,0 @@
-# MyRepository
-use to study
